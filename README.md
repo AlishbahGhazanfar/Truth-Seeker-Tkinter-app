@@ -35,7 +35,7 @@ No special setup is required for the SQLite database. The database will be creat
 ### Clone the Repository
 Clone this repository to your local machine:
 ```sh
-git clone https://github.com/yourusername/truth-seeker.git
+git clone https://github.com/AlishbahGhazanfar/truth-seeker.git
 cd truth-seeker
 ```
 
